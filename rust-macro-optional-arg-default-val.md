@@ -3,7 +3,7 @@ date: 20220711
 keyword: rust macro
 ---
 
-# Use Rust macro to implement a function def with default type
+# Give optional argument of macro a default value
 
 Use [variadic interface](https://doc.rust-lang.org/rust-by-example/macros/variadics.html). Pattern like
 
